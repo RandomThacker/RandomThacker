@@ -45,7 +45,6 @@ const aryan = {
   askMeAbout: ["web dev", "tech", "finance"],
   code: [Javascript, Typescript, HTML, CSS, C++],
   tools: [React, Redux, Node, Styled-Components],
-  architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
                         organizer: "DevTrack",
                         HRC: "REVA Hack",
