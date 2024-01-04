@@ -1,17 +1,12 @@
 <h2 align="left">Hello World, I'm Aryan👋!</h2>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aryan-thacker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryan-thacker" height="30" width="40" /></a>
-</p>
-
 ###
 
 
 <img align="right" height="150" src="https://media0.giphy.com/media/5xtDarFAb9dyCRGpAnC/giphy.gif?cid=ecf05e47lmliuvsoxl40q29azvhdvfivm3ze3tulcq2nnipf&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
-<h3 align="left">Language and tools  🛠</h3>
+<h3 align="left">Language and tools  </h3>
 
 
 <div align="left">
@@ -34,12 +29,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
 </div>
 
-<h3 align="left">Connect with me  🔗</h3>
-
-[![Linkedin](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)]([https://www.linkedin.com/in/anmol098/](https://www.linkedin.com/in/aryan-thacker/))
-![GitHub]([https://img.shields.io/github/followers/anmol098?label=Follow&style=social](https://github.com/RandomThacker))
-![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
-
+<h3 align="left">Connect with me  🛠</h3>
+<p align="left">
+<a href="https://linkedin.com/in/aryan-thacker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryan-thacker" height="30" width="40" /></a>
+</p>
 ###
 
 
