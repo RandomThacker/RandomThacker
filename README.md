@@ -36,7 +36,7 @@
 
 ```javascript
 const aryan = {
-  askMeAbout: ["web dev", "tech", "books"],
+  askMeAbout: ["web dev", "tech", "finance"],
   code: [Javascript, Typescript, HTML, CSS, C++],
   tools: [React, Redux, Node, Styled-Components],
   architecture: ["microservices", "event-driven", "design system pattern"],
@@ -44,12 +44,13 @@ const aryan = {
                         organizer: "DevTrack",
                         HRC: "REVA Hack",
                       },
-hobbies = {
-   			'Playing Chess',
-   			'Reading Novels'
-   			'Being up all Night chasing that ONE BUG...'
-   		}
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+  hobbies: {
+               'Playing Chess',
+   	           'Reading Novels'
+               'Being up all Night chasing that ONE BUG...'
+           },
+
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and nextjs"
 }
 ```
 
