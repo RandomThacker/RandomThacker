@@ -54,7 +54,7 @@ const aryan = {
 }
 ```
 
-<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em><img src="https://media2.giphy.com/media/xT5LMFZDsj0AKUDYTS/giphy.gif?cid=ecf05e47nb7sm1g5ygo7iygev12c0m43o90kw33p3cmyb687&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="60">
+<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 
 ---
 
@@ -68,6 +68,7 @@ const aryan = {
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=RandomThacker&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+<br>
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RandomThacker&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
