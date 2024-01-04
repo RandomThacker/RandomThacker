@@ -58,9 +58,7 @@ const aryan = {
  challenge: "I am doing the #100DaysOfCode challenge focused on react and nextjs"
 }
 ```
-<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
 
----
 
 <h3 align="left">My Contributions 🏆</h3>
 
@@ -79,4 +77,6 @@ const aryan = {
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RandomThacker&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
 
+---
