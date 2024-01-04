@@ -54,7 +54,7 @@ const aryan = {
 }
 ```
 
-<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em><img src="[https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif](https://media2.giphy.com/media/xT5LMFZDsj0AKUDYTS/giphy.gif?cid=ecf05e47nb7sm1g5ygo7iygev12c0m43o90kw33p3cmyb687&ep=v1_gifs_search&rid=giphy.gif&ct=g)" width="60">
 
 ---
 
