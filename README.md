@@ -6,7 +6,7 @@
 <img align="right" height="150" src="https://media0.giphy.com/media/5xtDarFAb9dyCRGpAnC/giphy.gif?cid=ecf05e47lmliuvsoxl40q29azvhdvfivm3ze3tulcq2nnipf&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">Language and tools  🛠</h3>
 
 
 <div align="left">
@@ -28,6 +28,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
 </div>
+
+<h3 align="left">Connect with me  🔗</h3>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=misteranmol)
 [![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol098/)
@@ -65,7 +67,7 @@ const aryan = {
 ---
 
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">My Stats 🔥</h3>
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=RandomThacker&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
@@ -77,7 +79,7 @@ const aryan = {
 
 
 
-<h3 align="left">🏆   My Contributions :</h3>
+<h3 align="left">My Contributions 🏆</h3>
 
 ###
 <img src="https://raw.githubusercontent.com/RandomThacker/RandomThacker/output/snake.svg" alt="Snake animation" />
