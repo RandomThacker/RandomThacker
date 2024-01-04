@@ -51,8 +51,8 @@ const aryan = {
                         HRC: "REVA Hack",
                       },
   hobbies: {
-               'Playing Chess',
    	           'Reading Novels',
+               'Playing Chess',
                'Being up all Night chasing that ONE BUG...'
            },
 
