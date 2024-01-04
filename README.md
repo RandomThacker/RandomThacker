@@ -53,6 +53,7 @@ const aryan = {
   hobbies: {
    	           'Reading Novels',
                'Playing Chess',
+               'Reading Novels'
                'Being up all Night chasing that ONE BUG...'
            },
 
