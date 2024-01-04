@@ -78,9 +78,6 @@ const aryan = {
 <h3 align="left">🏆   My Contributions :</h3>
 
 ###
-
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/RandomThacker/RandomThacker/output/snake.svg" alt="Snake animation" />
 
 ###
