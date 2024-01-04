@@ -6,7 +6,7 @@
 <img align="right" height="150" src="https://media0.giphy.com/media/5xtDarFAb9dyCRGpAnC/giphy.gif?cid=ecf05e47lmliuvsoxl40q29azvhdvfivm3ze3tulcq2nnipf&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
-<h3 align="left">Language and tools  </h3>
+<h3 align="left">Language and tools  🛠️</h3>
 
 
 <div align="left">
