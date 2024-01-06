@@ -44,8 +44,9 @@ const aryan = {
   code: [Javascript, Typescript, HTML, CSS, C++],
   tools: [React, Redux, Node, Styled-Components],
   techCommunities: {
-                        organizer: "DevTrack",
+                        Organizer: "DevTrack",
                         HRC: "REVA Hack",
+                        Mentor : "Synthax"
                       },
   hobbies: {
                'Playing Chess',
