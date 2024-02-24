@@ -34,8 +34,12 @@
 </p>
 
 ###
+### 👇 Hit in your console or terminal to connect with me.
+```javascript
+npx aryanthacker
+```
 
-
+###
 ### A little more about me! 🧟‍♂️ 
 
 ```javascript
