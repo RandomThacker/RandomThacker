@@ -35,7 +35,7 @@
 
 ###
 ### 👇 Hit in your console or terminal to connect with me.
-```javascript
+```bash
 npx aryanthacker
 ```
 
